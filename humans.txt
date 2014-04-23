@@ -1,0 +1,13 @@
+/* humanstxt.org */
+
+/* TEAM */
+Author: Ian Weatherhogg
+Twitter: @ianweatherhogg
+GitHub: http://github.com/ianweatherhogg
+From: Brighton, UK
+
+/* SITE */
+Language: English
+Standards: HTML5, CSS3
+Components: Hakyll, CSS, Nginx, Git
+IDE: Emacs

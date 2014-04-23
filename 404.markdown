@@ -1,0 +1,12 @@
+---
+title: Page not found
+description: 404 page not found
+tags: 404
+---
+
+# Error 404
+
+The information you're looking for has not been created yet.
+
+<a href="/">Home</a>.
+
